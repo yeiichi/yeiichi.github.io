@@ -1,16 +1,18 @@
-layout: page
+---
+layout: default
 title: "Recipe: The Clean EDA Rig"
 permalink: /eda-rig
+---
 
 
 # Recipe
 
-A Declarative, XDG-Compliant, \"Headless-Ready\" Analytics Station
+A Declarative, XDG-Compliant, "Headless-Ready" Analytics Station
 
 ## 1. Introduction: The Post-PEP 668 Reality
 
 If you\'ve recently tried to `pip install` something globally on a
-modern Linux distro, you\'ve hit the **PEP 668** wall: *\"externally
+modern Linux distro, you've hit the **PEP 668** wall: *\"externally
 managed environment.\"* The days of polluting system Python are over.
 
 ### The Pain Points
