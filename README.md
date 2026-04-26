@@ -6,5 +6,7 @@ This repository hosts my GitHub Pages site.
 
 ## Pages
 - https://yeiichi.github.io/eda-rig
+<!--
 - https://yeiichi.github.io/docker-cheats
 - https://yeiichi.github.io/xpath-notes
+-->
