@@ -1,14 +1,16 @@
 ---
 layout: default
-title: Eiichi’s Lab
+title: Cheatsheets
 ---
 
-# Eiichi’s Lab
+# Cheatsheets
 
 A collection of quick, practical notes.
 
 ## Notes
 
 - [Clean EDA Rig](/eda-rig)
+<!--
 - [Docker Cheats](/docker-cheats)
 - [XPath Notes](/xpath-notes)
+-->
