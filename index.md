@@ -1,10 +1,14 @@
 ---
 layout: default
-title: yeiichi.github.io
+title: Eiichi’s Lab
 ---
 
-# yeiichi.github.io
+# Eiichi’s Lab
 
-## Pages
+A collection of quick, practical notes.
 
-- [Recipe: The Clean EDA Rig](/eda-rig)
+## Notes
+
+- [Clean EDA Rig](/eda-rig)
+- [Docker Cheats](/docker-cheats)
+- [XPath Notes](/xpath-notes)
