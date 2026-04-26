@@ -27,17 +27,17 @@ managed environment.\"* The days of polluting system Python are over.
 
 ## 2. Managing Environments with UV and XDG
 
-We solve this by combining the **XDG Base Directory Spec** (keep it
+I solve this by combining the **XDG Base Directory Spec** (keep it
 clean) with **uv** (keep it fast).
 
--   **XDG Compliance:** We hide our environment in
+-   **XDG Compliance:** I hide our environment in
     `~/.local/share/venvs`, keeping your home directory pristine.
 -   **uv:** Replacing `pip` and `venv` with a single binary that is
     10x-100x faster and uses a global cache to save disk space.
 
 ## 3. Create the Hidden EDA Project
 
-Instead of a \"dumb\" virtual environment, we create a **declarative
+Instead of an inflexible virtual environment, I create a **declarative
 project** inside your XDG data folder.
 
 ``` bash
@@ -59,8 +59,8 @@ defined **spec** that can be recreated anywhere.
 
 ## 4. Alias Me!
 
-To avoid navigating to this hidden directory every time, we create a
-\"sticky slip\" in your shell configuration (`~/.zshrc` or `~/.bashrc`).
+To avoid navigating to this hidden directory every time, I create a
+"sticky slip" in your shell configuration (`~/.zshrc` or `~/.bashrc`).
 
 Add this line to the bottom:
 
