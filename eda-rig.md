@@ -5,7 +5,8 @@ permalink: /eda-rig
 ---
 
 
-# Recipe
+# Recipe: The Clean EDA Rig
+_2026-04-26_
 
 A Declarative, XDG-Compliant, "Headless-Ready" Analytics Station
 
