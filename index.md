@@ -13,3 +13,4 @@ A collection of quick, practical notes.
 - [Nice to have in pipx](/pipx-fav)
 - [Personal Behavior Data Architecture](/32gb-lifetime-data-architecture)
 - [URL handling hints](/url-handling-hints)
+- [Numbers 1–100 Attribute Table](/numbers-1–100-attribute-table)
