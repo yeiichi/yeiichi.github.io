@@ -1,0 +1,9 @@
+/* Make table headers sticky */
+table thead th {
+  position: -webkit-sticky; /* Support for Safari */
+  position: sticky;
+  top: 0;
+  background-color: #fff; /* Match your page background to prevent transparency */
+  z-index: 10;
+  border-bottom: 2px solid #ddd;
+}
