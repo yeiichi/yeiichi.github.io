@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Numbers 1–100 Attribute Table"
-permalink: /numbers-1-100
+permalink: /numbers-1-100-attribute-table
 ---
 
 # Numbers 1–100 — Attribute Table
