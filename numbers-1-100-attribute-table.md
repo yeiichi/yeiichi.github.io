@@ -17,7 +17,6 @@ This page provides a structured classification of integers from 1 to 100.
 ### A. Column Definitions
 
 * **n**: Integer value (1–100)
-* **parity**: `even` or `odd`
 * **prime**: 1 if prime
 * **composite**: 1 if composite (n > 1 and not prime)
 * **semiprime**: 1 if product of two primes
@@ -31,7 +30,6 @@ This page provides a structured classification of integers from 1 to 100.
 * **digit_sum**: sum of decimal digits
 * **digital_root**: repeated digit sum (1–9)
 * **feature_count**: number of active (1) feature flags
-* **note**: short interpretive summary
 
 ---
 
@@ -154,5 +152,5 @@ This page provides a structured classification of integers from 1 to 100.
 ## 4. Maintenance Notes
 
 - **Extensibility:** Future columns may include `prime_gap`, `factor_entropy`, or `binary_length`
-- **Generation:** Recommended via script (avoid manual edits)
+- **Generation:** Recommended via script (avoid manual edits). See: [generate_numbers_csv.py](https://gist.github.com/yeiichi/1d63597c5ecb205bf0617f189470e0ca)
 - **Interpretation:** `feature_count` is schema-dependent; do not treat as absolute “importance”
