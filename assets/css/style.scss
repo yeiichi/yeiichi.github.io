@@ -7,22 +7,22 @@
   Page-scoped styles
   Keep global layout (e.g. `.wrapper`, `section`) untouched to avoid affecting other pages.
 */
-.numbers-attribute-page {
-  .table-scroll {
+.table-sticky-scope {
+  &.table-scroll {
     max-height: 70vh;
     overflow: auto;
     margin: 1rem 0;
     border: 1px solid #ddd;
   }
 
-  .table-scroll table {
+  &.table-scroll table {
     border-collapse: separate;
     border-spacing: 0;
     min-width: 100%;
     width: max-content;
   }
 
-  .table-scroll thead th {
+  &.table-scroll thead th {
     position: sticky;
     top: 0;
     background: var(--body-background, #fff);
@@ -30,8 +30,8 @@
     box-shadow: 0 2px 2px -1px rgba(0, 0, 0, 0.15);
   }
 
-  .table-scroll th,
-  .table-scroll td {
+  &.table-scroll th,
+  &.table-scroll td {
     white-space: nowrap;
   }
 }

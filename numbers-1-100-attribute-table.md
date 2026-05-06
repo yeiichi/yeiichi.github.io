@@ -4,8 +4,6 @@ title: "Numbers 1–100 Attribute Table"
 permalink: /numbers-1-100-attribute-table
 ---
 
-<div class="numbers-attribute-page" markdown="1">
-
 # Numbers 1–100 — Attribute Table
 _Last Updated: 2026-05-05_
 
@@ -46,7 +44,7 @@ This page provides a structured classification of integers from 1 to 100.
 
 ## 3. Attribute Table (1–100)
 
-<div class="table-scroll" markdown="1">
+<div class="table-sticky-scope table-scroll" markdown="1">
 | n | prime | composite | semiprime | square | cube | pow2 | fib | triangular | perfect | divisor_count | digit_sum | digital_root | feature_count |
 |---|-------|-----------|-----------|--------|------|------|-----|------------|---------|----------------|------------|---------------|----------------|
 | 1 | 0 | 0 | 0 | 1 | 1 | 1 | 1 | 1 | 0 | 1 | 1 | 1 | 5 |
@@ -157,5 +155,3 @@ This page provides a structured classification of integers from 1 to 100.
 - **Extensibility:** Future columns may include `prime_gap`, `factor_entropy`, or `binary_length`
 - **Generation:** Recommended via script (avoid manual edits). See: [generate_numbers_csv.py](https://gist.github.com/yeiichi/1d63597c5ecb205bf0617f189470e0ca)
 - **Interpretation:** `feature_count` is schema-dependent; do not treat as absolute “importance”
-
-</div>
