@@ -8,14 +8,19 @@
   Keep global layout (e.g. `.wrapper`, `section`) untouched to avoid affecting other pages.
 */
 .table-sticky-scope {
+  /*
+    NOTE: We attach `.table-sticky-scope.table-scroll` to the `<table>` itself using kramdown IAL
+    (to avoid HTML wrappers that prevent markdown tables from being parsed on GitHub Pages).
+  */
   &.table-scroll {
+    display: block;
     max-height: 70vh;
     overflow: auto;
     margin: 1rem 0;
     border: 1px solid #ddd;
   }
 
-  &.table-scroll table {
+  &.table-scroll {
     border-collapse: separate;
     border-spacing: 0;
     min-width: 100%;
