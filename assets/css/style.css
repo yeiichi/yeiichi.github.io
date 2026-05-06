@@ -1,9 +1,13 @@
-/* Make table headers sticky */
+---
+---
+@import "{{ site.theme }}";
+
+/* Sticky Table Header */
 table thead th {
   position: -webkit-sticky; /* Support for Safari */
   position: sticky;
   top: 0;
-  background-color: #fff; /* Match your page background to prevent transparency */
+  background-color: #fff; /* Match your page background */
   z-index: 10;
-  border-bottom: 2px solid #ddd;
+  box-shadow: 0 2px 2px -1px rgba(0, 0, 0, 0.1); /* Optional: adds a bottom shadow */
 }
