@@ -44,6 +44,7 @@ This page provides a structured classification of integers from 1 to 100.
 
 ## 3. Attribute Table (1–100)
 
+<div class="table-scroll" markdown="1">
 | n | prime | composite | semiprime | square | cube | pow2 | fib | triangular | perfect | divisor_count | digit_sum | digital_root | feature_count |
 |---|-------|-----------|-----------|--------|------|------|-----|------------|---------|----------------|------------|---------------|----------------|
 | 1 | 0 | 0 | 0 | 1 | 1 | 1 | 1 | 1 | 0 | 1 | 1 | 1 | 5 |
@@ -146,7 +147,7 @@ This page provides a structured classification of integers from 1 to 100.
 | 98 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 6 | 17 | 8 | 1 |
 | 99 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 6 | 18 | 9 | 1 |
 | 100 | 0 | 1 | 1 | 1 | 0 | 0 | 0 | 0 | 0 | 9 | 1 | 1 | 3 |
-
+</div>
 ---
 
 ## 4. Maintenance Notes
