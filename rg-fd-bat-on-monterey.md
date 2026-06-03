@@ -1,4 +1,3 @@
-
 ---
 layout: default
 title: "Modern CLI Tools on a Half-Fossilized macOS Monterey"
