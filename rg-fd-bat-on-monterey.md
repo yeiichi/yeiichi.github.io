@@ -2,7 +2,7 @@
 layout: default
 title: "Modern CLI Tools on a Half-Fossilized macOS Monterey"
 permalink: /rg-fd-bat-on-monterey
-------------------------------
+---
 
 # Modern CLI Tools on a Half-Fossilized macOS Monterey
 
