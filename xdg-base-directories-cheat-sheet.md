@@ -45,7 +45,6 @@ For developers working across Linux, macOS, Docker containers, and remote server
 | XDG_DATA_HOME                          | ~/.local/share   | User application data                       |
 | XDG_STATE_HOME                         | ~/.local/state   | Persistent state data (logs, history, etc.) |
 | HOME                                   | ~                | User home directory                         |
-| {: .table-sticky-scope .table-scroll } |                  |                                             |
 
 ### Typical Examples
 
