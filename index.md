@@ -17,3 +17,4 @@ A collection of quick, practical notes.
 - [Factchecker Framework](/factchecker-framework)
 - [Python Project Template Tools: Alternatives to Cookiecutter](/python-project-templates)
 - [Modern CLI Tools on a Half-Fossilized macOS Monterey](/rg-fd-bat-on-monterey)
+- [XDG Base Directories Cheat Sheet](/xdg-base-directories-cheat-sheet)
