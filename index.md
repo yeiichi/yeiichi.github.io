@@ -19,3 +19,4 @@ A collection of quick, practical notes.
 - [Modern CLI Tools on a Half-Fossilized macOS Monterey](/rg-fd-bat-on-monterey)
 - [XDG Base Directories Cheat Sheet](/xdg-base-directories-cheat-sheet)
 - [Claim Class Model](/claim-class-model)
+- [Django Docker Deployment: DigitalOcean Droplet and Google Cloud Run](/django-docker-deployment-droplet-cloud-run)
