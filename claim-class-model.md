@@ -58,15 +58,15 @@ The Cretan FactCheck data model is designed to be compatible with existing web, 
 
 | Standard                         | Purpose                                                 | Official Specification                                      |
 | -------------------------------- | ------------------------------------------------------- | ----------------------------------------------------------- |
-| Schema.org ClaimReview           | Structured representation of fact-check reviews         | https://schema.org/ClaimReview                              |
-| Schema.org CreativeWork          | General content model for articles and reports          | https://schema.org/CreativeWork                             |
-| Schema.org Person                | Representation of people making or reviewing claims     | https://schema.org/Person                                   |
-| Schema.org Organization          | Representation of publishers, institutions, and sources | https://schema.org/Organization                             |
-| JSON-LD 1.1                      | Machine-readable linked data serialization              | https://www.w3.org/TR/json-ld11/                            |
-| RDF 1.1 Concepts                 | Foundation of linked-data graphs                        | https://www.w3.org/TR/rdf11-concepts/                       |
-| Dublin Core Metadata Element Set | Common descriptive metadata vocabulary                  | https://www.dublincore.org/specifications/dublin-core/dces/ |
-| PROV-O (W3C Provenance Ontology) | Provenance tracking for evidence and research workflows | https://www.w3.org/TR/prov-o/                               |
-| SKOS                             | Controlled vocabularies and taxonomy management         | https://www.w3.org/TR/skos-reference/                       |
+| Schema.org ClaimReview           | Structured representation of fact-check reviews         | [https://schema.org/ClaimReview](https://schema.org/ClaimReview) |
+| Schema.org CreativeWork          | General content model for articles and reports          | [https://schema.org/CreativeWork](https://schema.org/CreativeWork) |
+| Schema.org Person                | Representation of people making or reviewing claims     | [https://schema.org/Person](https://schema.org/Person) |
+| Schema.org Organization          | Representation of publishers, institutions, and sources | [https://schema.org/Organization](https://schema.org/Organization) |
+| JSON-LD 1.1                      | Machine-readable linked data serialization              | [https://www.w3.org/TR/json-ld11/](https://www.w3.org/TR/json-ld11/) |
+| RDF 1.1 Concepts                 | Foundation of linked-data graphs                        | [https://www.w3.org/TR/rdf11-concepts/](https://www.w3.org/TR/rdf11-concepts/) |
+| Dublin Core Metadata Element Set | Common descriptive metadata vocabulary                  | [https://www.dublincore.org/specifications/dublin-core/dces/](https://www.dublincore.org/specifications/dublin-core/dces/) |
+| PROV-O (W3C Provenance Ontology) | Provenance tracking for evidence and research workflows | [https://www.w3.org/TR/prov-o/](https://www.w3.org/TR/prov-o/) |
+| SKOS                             | Controlled vocabularies and taxonomy management         | [https://www.w3.org/TR/skos-reference/](https://www.w3.org/TR/skos-reference/) |
 
 ### Mapping Notes
 
