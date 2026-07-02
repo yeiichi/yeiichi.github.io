@@ -20,3 +20,4 @@ A collection of quick, practical notes.
 - [XDG Base Directories Cheat Sheet](/xdg-base-directories-cheat-sheet)
 - [Claim Class Model](/claim-class-model)
 - [Django Docker Deployment: DigitalOcean Droplet and Google Cloud Run](/django-docker-deployment-droplet-cloud-run)
+- [CI/CD Cheat Sheet: GitHub Actions-Centered Flow](/ci-cd-github-actions-centered-cheat-sheet)
