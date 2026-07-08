@@ -21,3 +21,4 @@ A collection of quick, practical notes.
 - [Claim Class Model](/claim-class-model)
 - [Django Docker Deployment: DigitalOcean Droplet and Google Cloud Run](/django-docker-deployment-droplet-cloud-run)
 - [CI/CD Cheat Sheet: GitHub Actions-Centered Flow](/ci-cd-github-actions-centered-cheat-sheet)
+- [Django Infra Utils for Cloud Run](/dj-infra-utils-cloud-run)
