@@ -22,3 +22,4 @@ A collection of quick, practical notes.
 - [Django Docker Deployment: DigitalOcean Droplet and Google Cloud Run](/django-docker-deployment-droplet-cloud-run)
 - [CI/CD Cheat Sheet: GitHub Actions-Centered Flow](/ci-cd-github-actions-centered-cheat-sheet)
 - [Django Infra Utils for Cloud Run](/dj-infra-utils-cloud-run)
+- [Custom Search JSON API Alternatives](/custom-search-json-api-alternatives)
