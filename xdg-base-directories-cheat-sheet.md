@@ -6,7 +6,8 @@ permalink: /xdg-base-directories-cheat-sheet
 
 # XDG Base Directories Cheat Sheet
 
-*Last Updated: 2026-06-09*
+*Date Created: 2026-06-09*  
+*Last Updated: 2026-07-17*
 
 ## 1. Introduction
 
@@ -96,7 +97,26 @@ State data is neither configuration nor cache.
 
 ---
 
-## 4. Linux vs macOS Notes
+## 4. Shell Setup
+
+Add these exports to a shell configuration file such as `~/.zshrc`, `~/.bashrc`, or `~/.profile` to make the standard XDG paths explicit for interactive shells and CLI tools.
+
+```bash
+export XDG_CONFIG_HOME="$HOME/.config"
+export XDG_DATA_HOME="$HOME/.local/share"
+export XDG_STATE_HOME="$HOME/.local/state"
+export XDG_CACHE_HOME="$HOME/.cache"
+```
+
+Create the directories once so tools can write to them immediately:
+
+```bash
+mkdir -p "$XDG_CONFIG_HOME" "$XDG_DATA_HOME" "$XDG_STATE_HOME" "$XDG_CACHE_HOME"
+```
+
+---
+
+## 5. Linux vs macOS Notes
 
 Although macOS traditionally uses:
 
@@ -132,7 +152,7 @@ Ubuntu Server:
 
 ---
 
-## 5. Secret Management Example
+## 6. Secret Management Example
 
 Recommended permissions:
 
@@ -158,7 +178,13 @@ drwx------ ~/.config/whisper-smith
 
 ---
 
-## 6. Maintenance Notes
+## 7. References
+
+* [XDG Base Directory Specification](https://specifications.freedesktop.org/basedir/latest/)
+
+---
+
+## 8. Maintenance Notes
 
 * **Extensibility:** Additional XDG directories can be added as standards evolve.
 * **Generation:** This page is maintained manually as a developer cheat sheet.
