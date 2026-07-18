@@ -5,7 +5,7 @@ permalink: /ci-cd-github-actions-centered-cheat-sheet/
 ---
 
 # CI/CD Cheat Sheet: GitHub-Centered Flow
-*Date Created: 2026-07-02*
+*Date Created: 2026-07-02*<br>
 *Last Updated: 2026-07-18*
 
 ## 1. Introduction
