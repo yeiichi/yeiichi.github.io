@@ -23,3 +23,4 @@ A collection of quick, practical notes.
 - [CI/CD Cheat Sheet: GitHub Actions-Centered Flow](/ci-cd-github-actions-centered-cheat-sheet)
 - [Django Infra Utils for Cloud Run](/dj-infra-utils-cloud-run)
 - [Custom Search JSON API Alternatives](/custom-search-json-api-alternatives)
+- [Running Architecture-Specific Shell Commands on macOS](/run-by-architecture-macos)
